@@ -1,2 +1,2 @@
 # tic-tac-toe
-a simple tic-tac-toe game with different mechanics
+a simple console tic-tac-toe game with different mechanics
