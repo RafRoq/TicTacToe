@@ -1,2 +1,2 @@
-# tic-tac-toe
-a simple console tic-tac-toe game with different mechanics
+# jogo da velha em diferentes linguas
+jogo da velha com diferentes regras
