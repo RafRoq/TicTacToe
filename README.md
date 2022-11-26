@@ -1,2 +1,1 @@
-# jogo da velha em diferentes linguas
-jogo da velha com diferentes regras
+jogo da velha com diferentes regras em diferentes linguagens
